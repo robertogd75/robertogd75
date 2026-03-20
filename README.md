@@ -32,6 +32,12 @@ Puedes ver mis proyectos en funcionamiento y detalles técnicos en mi web person
 
 ---
 
+### 🌍 Idiomas
+* **Español:** Nativo.
+* **Inglés:** Nivel **B2 (Cambridge English)** – Capacidad para trabajar en entornos bilingües y documentación técnica.
+
+---
+
 ### 📫 Conectemos
 * **Web:** [rgardel.es](https://rgardel.es/)
 * **LinkedIn:** [roberto-garcia-delgado-626b9430a](https://www.linkedin.com/in/roberto-garcia-delgado-626b9430a)
